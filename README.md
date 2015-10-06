@@ -1,2 +1,2 @@
-# itba-CandyCrush
-Candy Crush game for Object-Oriented Programming course at ITBA
+# Candy Crush
+Java game for Object-Oriented Programming course at ITBA.
